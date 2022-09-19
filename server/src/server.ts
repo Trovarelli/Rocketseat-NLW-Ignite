@@ -51,7 +51,7 @@ app.post('/ads', async (request, response) => {
     //validação LIB: Zod
     const ad = await prisma.ad.create({
         data: {
-            gameId: body.gameId,
+            gameId: Number(body.gameId),
             name: body.name,
             weekDays: body.weekDays.join(','),
             useVoiceChannel: body.useVoiceChannel,
@@ -65,6 +65,7 @@ app.post('/ads', async (request, response) => {
 
     return response.status(201).json(ad)
 })
+
 
 app.get('/ads/:id/discord', async (request, response) => {
     const adId = request.params.id
