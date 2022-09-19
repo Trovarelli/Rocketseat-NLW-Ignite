@@ -1,5 +1,5 @@
 Arguments: 
-  C:\Program Files\nodejs\node.exe C:\Users\jtnet\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add expo-clipboard@~3.1.0
+  C:\Program Files\nodejs\node.exe C:\Users\jtnet\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add expo-notifications@~0.16.1
 
 PATH: 
   C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\jtnet\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\erl-24.3.2\bin;C:\Program Files (x86)\Elixir\bin;%USERPROFILE%\.mix\escripts;C:\xampp\php;C:\composer;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\jtnet\AppData\Local\Microsoft\WindowsApps;C:\Users\jtnet\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\jtnet\AppData\Roaming\npm;C:\Users\jtnet\AppData\Local\Programs\Python\Python39;C:\Users\jtnet\AppData\Roaming\Composer\vendor\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin
